@@ -39,6 +39,7 @@
                       prefWidth="388.0" />
             </content>
         </ScrollPane>
+
     </children>
 </AnchorPane>
 
